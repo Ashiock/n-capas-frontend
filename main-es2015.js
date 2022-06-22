@@ -237,7 +237,7 @@ __webpack_require__.r(__webpack_exports__);
 // The list of which env maps to which file can be found in `.angular-cli.json`.
 const environment = {
     production: false,
-    api: "http://localhost:8080/api/rest/",
+    api: "https://elderly-emu-ncapas.herokuapp.com/api/rest/",
 };
 
 

@@ -436,7 +436,7 @@
 
       var environment = {
         production: false,
-        api: "http://localhost:8080/api/rest/"
+        api: "https://elderly-emu-ncapas.herokuapp.com/api/rest/"
       };
       /***/
     },
